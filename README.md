@@ -1,3 +1,3 @@
 labraharjoitus
 =====
-Why you read me?
+This is a readme file.
